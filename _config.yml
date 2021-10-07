@@ -1,25 +1,56 @@
-title:              Krishna's Blog
-email:              skprasadu@yahoo.com
-description:        Thoughts on Spring, Cloud and everything else
-author:             Krishna Prasad
-baseurl:            ""
-url:                "https://skprasadu.github.io"
+title: Krishna's Blog
+description: Thoughts on Spring, Cloud and everything else
+author: Krishna Prasad
+github: https://github.com/skprasadu
+about: I am an Enterprise Architect in the area of Java, Spring Boot, React, React Native, iOS, Swift. I am also working on lot of exciting stuff in Boeing in the areas like NLP, AI, extracting information from unstructured documents like PDF, aircraft analysis and design using Computational Fluid Dynamics (CFD) and High Performance Computing (HPC). And I am also a certified Cloud Architect from Pivotal.
+disqus_shortname: stackproblems
+google_analytics: UA-XXXXXXXX-Y
 
-# Social Profiles
-twitter_username:   praskrishna
-github_username:    skprasadu
-facebook_username:  krishna.prasad.in
-instagram_username:  
-linkedin_username:  krishnaprasad1
+enableTags: true
+tagarray: []
 
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
 
-# Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
-plugins:
-  - jekyll-feed
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/krishna.prasad.in"
+    - icon: fa-twitter
+      link: "http://twitter.com/praskrishna"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/krishnaprasad1/"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/skprasadu"
+
+share:
+  twitter_username: praskrishna
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Blogs
+      url: /
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://skprasadu.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
