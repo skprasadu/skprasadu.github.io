@@ -5,6 +5,7 @@ github: https://github.com/skprasadu
 about: An Enterprise Architect in one of the worlds largest IT Services Company. Thought leader in Cloud, Data Engineering and AI
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
+image: static/img/kp.png
 
 enableTags: true
 tagarray: []
