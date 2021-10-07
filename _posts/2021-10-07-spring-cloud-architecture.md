@@ -4,5 +4,16 @@ title:  "Spring Cloud Architecture"
 date:   2021-10-07 20:41:00 +0700
 categories: [spring, spring-cloud]
 ---
+# What is Spring Cloud?
 
-Previously makesure you already install the [`django-recaptcha`](https://pypi.org/project/django-recaptcha/),
+## Definition
+
+```Java
+
+public void spring() {
+
+}
+
+```
+
+![Spring Cloud Netflix OSS](/static/img/_posts/spring-cloud-netflix-oss.png)
