@@ -36,8 +36,6 @@ urls:
       url: /about/
     - text: My Blogs
       url: /
-    - text: XML Feed
-      url: /feed.xml
 
 url: "https://skprasadu.github.io"
 baseurl: ""
