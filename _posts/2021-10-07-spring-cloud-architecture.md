@@ -16,4 +16,4 @@ public void spring() {
 
 ```
 
-![Spring Cloud Netflix OSS](/static/img/_posts/spring-cloud-netflix-oss.png)
+![Spring Cloud Netflix OSS](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/spring-cloud-netflix-oss.png)
