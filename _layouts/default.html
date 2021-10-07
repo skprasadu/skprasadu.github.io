@@ -115,6 +115,12 @@ layout: compress
       <div class="col-sm-3">
         <div class="fixed-condition">
           <h1 class="author-name"><a href="/">{{ site.author }}</a></h1>
+          {% if site.image %}
+            <div class="profile-about">
+              <img src="{{ site.image }}" />
+            </div>
+          {% endif %}​​​​​​​​​​​​​
+
           {% if site.about %}
             <div class="profile-about">
               {{ site.about }}
