@@ -15,5 +15,6 @@ Monolith are simple, but the are difficult to scale independently.
 
 ![Typical Monolith Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/microservices-architecture.png)
 
+# Components of Microservices
 
 ![Typical Components of Microservice Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/microservices-cdn.png)
