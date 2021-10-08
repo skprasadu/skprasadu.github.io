@@ -4,16 +4,16 @@ title:  "What is Microservices"
 date:   2021-10-03 20:41:00 +0700
 categories: [microservices]
 ---
-# What is Spring Cloud?
+# Monolith Architecture
+![Typical Monolith Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/monolith-architecture.png)
 
-## Definition
+# What are the Pros and Cons of Monolith
 
-```Java
+Monolith are simple, but the are difficult to scale independently.
 
-public void spring() {
+# Microservice Architecture
 
-}
+![Typical Monolith Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/microservices-architecture.png)
 
-```
 
-![Typical Microservice Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/microservices-cdn.png)
+![Typical Components of Microservice Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/microservices-cdn.png)
