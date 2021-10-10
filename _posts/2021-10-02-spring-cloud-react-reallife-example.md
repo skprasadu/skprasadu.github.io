@@ -19,6 +19,37 @@ To start this example, git clone this example and the directory structure is as 
 
 ![Folder structure](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/react-example-git-folderstructure.png)
 
+Open windows commands Mac terminal under `eureke-discovery-service` and run 
+
+```
+./gradlew bootRun
+```
+
+Open another windows commands Mac terminal under `microservice-course-management` and run 
+
+```
+./gradlew bootRun
+```
+
+Open another windows commands Mac terminal under `microservice-user-management` and run 
+
+```
+./gradlew bootRun
+```
+
+Run Zuul API gateway by `cd` to `zuul-gateway-service` and run
+```
+./gradlew bootRun
+```
+
+Finally `cd` to `client-side` and run 
+
+```
+npm install && npm start
+```
+
+Open the web browser and type `http://localhost:3000` and you can see the React application. To explore the application more, import all these gradle projects into an IDE of your choise and understand what is going on. 
+
 This is a simple example to jump start a spring cloud application. However there are lot of other components of Spring Cloud Services as below,
 
 ![Spring Cloud Netflix OSS](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/spring-cloud-netflix-oss.png)
