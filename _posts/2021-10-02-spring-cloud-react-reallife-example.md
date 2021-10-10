@@ -9,4 +9,4 @@ In this example, we have built a simple Spring Cloud application with 2 microser
 
 
 
-![Typical Microservice Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/spring-cloud-react-reallife-example.png)
+![Spring Cloud React Example Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/spring-cloud-react-reallife-example.png)
