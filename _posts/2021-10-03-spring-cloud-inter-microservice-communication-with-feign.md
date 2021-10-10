@@ -9,6 +9,6 @@ In this example, we have built a simple Spring Cloud application with 2 microser
 
 The Customer Microservices calls the product microservice to get the products by customer.
 
-This is the [github link](https://github.com/skprasadu/spring-cloud-feign-example) that works with H2 database.
+This is the [github link](https://github.com/skprasadu/spring-cloud-feign-example) for this example.
 
 This example users [Feign](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html).
