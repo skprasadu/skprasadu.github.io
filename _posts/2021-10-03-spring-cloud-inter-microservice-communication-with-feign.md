@@ -12,3 +12,5 @@ The Customer Microservices calls the product microservice to get the products by
 This is the [github link](https://github.com/skprasadu/spring-cloud-feign-example) for this example.
 
 This example users [Feign](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html).
+
+![Spring Cloud Feign Architecture](https://raw.githubusercontent.com/skprasadu/skprasadu.github.io/master/static/img/_posts/feign-architecture.png)
